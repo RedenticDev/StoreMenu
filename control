@@ -1,0 +1,12 @@
+Package: com.redenticdev.storemenu
+Name: StoreMenu
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Open the App Store page from the 3D Touch menu
+Icon: https://redentic.dev/depictions/com.redenticdev.storemenu/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.storemenu
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.storemenu/sileo.json
+Maintainer: RedenticDev <redenticdev@gmail.com>
+Author: RedenticDev <redenticdev@gmail.com>
+Section: Tweaks (Requests)
+Depends: mobilesubstrate (>= 0.9.5000)
